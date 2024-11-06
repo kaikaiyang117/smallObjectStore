@@ -13,6 +13,7 @@ set(SOURCE_FILES mian.cpp)
 # 添加可执行文件
 add_executable(object_storage ${SOURCE_FILES})
 
-# 链接 pthread 库（用于多线程支持）
+add_executable(MemoryTest  Memory.cpp)
+
 find_package(Threads REQUIRED)
 target_link_libraries(object_storage Threads::Threads)

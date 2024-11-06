@@ -1,0 +1,17 @@
+# ninja log v5
+0	449	1730908293095955482	CMakeFiles/object_storage.dir/mian.cpp.o	7ac1242779498078
+449	538	1730908293185955466	object_storage	6b03abf1deed7adb
+0	2	0	clean	a7c70eacb11a5051
+0	456	1730908320015949568	CMakeFiles/object_storage.dir/mian.cpp.o	7ac1242779498078
+456	552	1730908320105949549	object_storage	6b03abf1deed7adb
+0	2	0	clean	a7c70eacb11a5051
+1	463	1730911434765240481	CMakeFiles/object_storage.dir/mian.cpp.o	7ac1242779498078
+0	104	1730911795435158334	object_storage	6b03abf1deed7adb
+0	343	1730911795675158280	CMakeFiles/MemoryTest.dir/Memory.cpp.o	fdacdceadf6fecfe
+343	431	1730911795765158264	MemoryTest	26bf418a362e278c
+1	424	1730913453634781914	CMakeFiles/MemoryTest.dir/Memory.cpp.o	fdacdceadf6fecfe
+424	527	1730913453744781885	MemoryTest	26bf418a362e278c
+0	319	1730914403044566287	CMakeFiles/MemoryTest.dir/Memory.cpp.o	fdacdceadf6fecfe
+319	409	1730914403134566267	MemoryTest	26bf418a362e278c
+1	328	1730914460294550578	CMakeFiles/MemoryTest.dir/Memory.cpp.o	fdacdceadf6fecfe
+328	424	1730914460394550554	MemoryTest	26bf418a362e278c

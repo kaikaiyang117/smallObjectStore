@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/kky/smallObjectStore/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o CMakeFiles/MemoryTest.dir/Memory.cpp.o -c /home/kky/smallObjectStore/Memory.cpp",
+  "file": "/home/kky/smallObjectStore/Memory.cpp"
+},
+
+{
+  "directory": "/home/kky/smallObjectStore/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o CMakeFiles/object_storage.dir/mian.cpp.o -c /home/kky/smallObjectStore/mian.cpp",
+  "file": "/home/kky/smallObjectStore/mian.cpp"
+}
+]

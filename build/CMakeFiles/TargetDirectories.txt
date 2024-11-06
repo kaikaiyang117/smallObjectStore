@@ -1,0 +1,4 @@
+/home/kky/smallObjectStore/build/CMakeFiles/edit_cache.dir
+/home/kky/smallObjectStore/build/CMakeFiles/MemoryTest.dir
+/home/kky/smallObjectStore/build/CMakeFiles/rebuild_cache.dir
+/home/kky/smallObjectStore/build/CMakeFiles/object_storage.dir
